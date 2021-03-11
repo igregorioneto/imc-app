@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### Verificar a branch
+```
+IMC-APP-Projeto pronto
+```
 
 ### Compiles and hot-reloads for development
 ```
